@@ -165,9 +165,9 @@ const Footer = () => {
               © {new Date().getFullYear()} Sri Vari Tiffins. All Rights Reserved.
             </p>
 
-            <p className="text-gray-500 text-sm">
+            {/* <p className="text-gray-500 text-sm">
               Designed by <span className="font-medium">Raghu Vamsi Bathula</span>
-            </p>
+            </p> */}
           </div>
 
           <button
